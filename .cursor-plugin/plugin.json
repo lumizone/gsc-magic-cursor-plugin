@@ -1,0 +1,18 @@
+{
+  "name": "gsc-magic",
+  "displayName": "GSC Magic",
+  "version": "1.0.0",
+  "description": "Google Search Console, Bing Webmaster Tools, GA4, IndexNow and Core Web Vitals in Cursor, with ready-made SEO reports.",
+  "author": {
+    "name": "GSC Magic",
+    "email": "contact@gscmagic.com"
+  },
+  "homepage": "https://gscmagic.com/integrations/cursor",
+  "repository": "https://github.com/lumizone/gsc-magic-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["seo", "google-search-console", "bing-webmaster-tools", "google-analytics", "ga4", "indexnow", "core-web-vitals", "mcp"],
+  "category": "integrations",
+  "tags": ["seo", "google-search-console", "analytics", "mcp"],
+  "mcpServers": "./mcp.json"
+}
